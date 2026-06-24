@@ -5,6 +5,8 @@
 pip install -r requirements.txt
 
 ## Run
+open anaconda prompt as administrator
+switch directory with 'cd C:\coding\kep python\nlp_pothole'
 
 uvicorn main:app --reload
 or
